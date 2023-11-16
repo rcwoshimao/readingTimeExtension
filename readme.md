@@ -1,2 +1,2 @@
 # Reading Time Chrome Extension
-Test extension
+Tracks reading time of any chrome developer blog. 
